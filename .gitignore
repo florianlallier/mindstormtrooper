@@ -1,0 +1,9 @@
+# JAVA
+*.class
+*.jar
+
+# ECLIPSE
+
+# OTHER
+*~
+/bin/
